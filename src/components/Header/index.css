@@ -1,0 +1,10 @@
+nav {
+  transition: height 1s;
+}
+.fixed-top {
+  height: 40px !important;
+}
+
+.hvr-underline-from-left:before {
+  background: white !important;
+}
