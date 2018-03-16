@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'On Call Cranes',
+    author: 'Ke Yang'
   },
   plugins: ['gatsby-plugin-react-helmet'],
 };

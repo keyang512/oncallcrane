@@ -1,6 +1,11 @@
 .copywrite {
-  font-size: 15px;
-  padding-top: 10px;
   text-align: center;
+  min-height: 40px;
+  display: 'flex';
+  align-content: 'center';
+  justify-content: 'center';
+  align-self: auto;
+  line-height: 40px;
+  font-size: 12px;
 }
 

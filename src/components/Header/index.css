@@ -1,10 +1,27 @@
 nav {
   transition: height 1s;
+  height: 40px;
+  position: absolute;
+  text-align: center;
 }
+
 .fixed-top {
   height: 40px !important;
+  background-image: linear-gradient(to left top, #dc3545, #e1303b, #e52b30, #e92823, #eb2612);
 }
 
 .hvr-underline-from-left:before {
   background: white !important;
+}
+
+.nav-item {
+  margin-bottom: 0 !important;
+}
+
+span {
+  font-family: 'Open Sans';
+}
+
+.nav-link:hover {
+  cursor: pointer;
 }

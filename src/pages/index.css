@@ -1,0 +1,43 @@
+section {
+  min-height: 400px;
+}
+.carousel-indicators li {
+  background-color: red;
+}
+
+.no-underline:hover {
+  text-decoration: none;
+}
+
+#intro {
+  background: url('./images/crane-3143611_1920.jpg');
+  background-size: cover;
+
+}
+
+#who-we-are {
+  background-image: linear-gradient(to left top, #dc3545, #e1303b, #e52b30, #e92823, #eb2612);}
+
+#crane {
+
+}
+
+#contact-us {
+  background-image: linear-gradient(to left top, #dc3545, #e1303b, #e52b30, #e92823, #eb2612);
+}
+
+.section-header {
+  text-align: center;
+  margin-top: 1rem;
+  padding-top: 1rem;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.crane-card:hover {
+  cursor: pointer;
+}
